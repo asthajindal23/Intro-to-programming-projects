@@ -1,0 +1,27 @@
+.set{
+	width:300px;
+	}
+.facts{
+	font-style:italic;
+	}
+.bold{
+	font-weight:bold;
+	}
+.bullets{
+	list-style-type:none;
+	}
+.border{
+	border-style:inset;
+	}
+.pad{
+	padding:10px;
+	}
+.size{
+	font-size:30px;
+	}
+.fix{
+	width:340px;
+	}
+.fixs{
+	width:340px;
+}
